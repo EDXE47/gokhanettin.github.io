@@ -18,7 +18,7 @@ nav:
 # Bio settings
 name: "Gökhan Karabulut"
 slogan: "Software developer, electronics enthusiast, drone hobbyist, amateur end-blown flute player"
-description: "This is my blog on which I share my thoughts, notes and experience."
+description: "My blog on which I share my notes and experiences."
 thumbnail_path: "blog-author-medium.jpg"
 website_repo_url: "https://github.com/gokhanettin/gokhanettin.github.io"
 
